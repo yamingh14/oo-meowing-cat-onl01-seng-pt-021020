@@ -6,7 +6,7 @@ class Cat
   end
 
   def meow
-  @meow
+    @meow
   end
 
   def name=(name)
