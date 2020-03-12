@@ -1,8 +1,7 @@
 class Cat
   attr_accessor :meow
-  def initialize(sound, snoopy)
+  def initialize(sound)
     @meow = sound
-    @name = snoopy
   end
 
   def name=(name)
