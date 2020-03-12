@@ -4,6 +4,6 @@ class Cat
     @meow = sound
     @name = snoopy
   end
-  
-    
+
+
 end
